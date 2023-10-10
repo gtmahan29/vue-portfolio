@@ -30,7 +30,7 @@
             </div>
         </div>
         <div class="hero-image w-6/12 h-full mx-auto">
-            <img src="../assets/Hero-background.png" alt="" class="h-full">
+            <img src="@/src/assets/Hero-background.png" alt="" class="h-full">
         </div>
     </div>
 </template>
